@@ -5,4 +5,6 @@ url_scraper.py is a new route in the app's urls.py file that will accept a URL a
 
 models.py and views.py file is for the logic of scraping and store the scraped data.
 
-print.py is created in the app's templates folder to display the scraped data:
+print.py is created in the app's templates folder to display the scraped data
+
+the testcase.py is the code for creating testcases
